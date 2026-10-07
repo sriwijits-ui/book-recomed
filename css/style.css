@@ -1,0 +1,56 @@
+ .hero-section {
+    background-image: url("../images/bg-sec.png");
+    background-size: cover ;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bg-content {background-color: #7d0a0a;
+
+}
+
+.bg-sec-sec{ background-color: rgb(255, 255, 255);
+
+}
+
+.text-hero{
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: larger 
+  ; 
+}
+.text-hero-japan{ 
+  font-family: "Zen Antique Soft", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: xx-large;
+  
+}
+
+h2{
+  font-family: "Playpen Sans Thai", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: xx-large;
+  color: #550606;
+  
+}
+h3{font-family: "Playpen Sans Thai", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: xx-large;
+  color: #ffffff;
+
+}
+p{
+  font-family: "Sarabun", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+ font-size: large ;
+}
+
+
+
+
