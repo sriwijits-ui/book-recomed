@@ -10,9 +10,13 @@
 
 .bg-sec-sec{ background-color: #ffffff;
   border: none;
+ 
+}
+
+
   
 
-}
+
 .glow-card {
     
     box-shadow: 0 0 10px #ff004d;
@@ -86,6 +90,7 @@ p{
   font-style: normal;
  font-size: large ;
 }
+
 
 
 
